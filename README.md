@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🌟 Driply - Your AI-Powered Digital Closet
 
-<!--
-**wouter1203/wouter1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driply is your personal AI stylist, helping you organize your wardrobe, discover new styles, and get daily outfit recommendations tailored to your preferences and the weather. Elevate your fashion game with Driply!
 
-Here are some ideas to get you started:
+## 📖 Table of Contents
+- [✨ Features](#-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🌍 Deployment](#-deployment)
+- [🐛 Issues & Support](#-issues--support)
+- [📜 License](#-license)
+- [🌐 Follow Us](#-follow-us)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Features
+- **👕 Digital Wardrobe:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Easily upload and categorize your clothing items.
+- **🤖 AI Outfit Suggestions:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Get daily outfit recommendations based on your wardrobe, preferences, and weather.
+- **🎯 Personalized Recommendations:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;AI learns from your feedback to refine suggestions.
+- **🛍️ Discover New Styles:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Explore trending fashion pieces that match your style.
+- **📤 Social Sharing:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Share your outfits with friends and get their feedback.
+- **☁️ Cloud Storage:** 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Securely store your wardrobe images using Firebase Storage.
+
+## 🛠️ Tech Stack
+- **Frontend:** Flutter
+- **Backend:** Google Cloud Run
+- **Storage:** Firestore & Firebase Storage
+- **Hosting:** Ubuntu VM with Apache
+- **Domain:** [Driply.app](https://driply.app)
+
+## 🌍 Deployment
+### Before opening in Xcode run:
+```sh
+flutter clean
+flutter pub get
+cd ios
+pod install
+cd ..
+```
+
+## 🐛 Issues & Support
+For bug reports or feature requests, open an issue on GitHub or contact us at support@driply.app.
+
+## 📜 License
+This Project is a private property, all rights are therefore reserved.
+
+## 🌐 Follow us for updates:
+Website: [Driply.app](https://driply.app)
