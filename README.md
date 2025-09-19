@@ -43,6 +43,7 @@ cd ..
 
 ```sh
 flutter build ios --config-only --release
+open ios/runner.xcworkspace
 ```
 
 ## 🐛 Issues & Support
