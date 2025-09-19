@@ -41,6 +41,10 @@ pod install
 cd ..
 ```
 
+```sh
+flutter build ios --config-only --release
+```
+
 ## 🐛 Issues & Support
 For bug reports or feature requests, open an issue on GitHub or contact us at support@driply.app.
 
